@@ -15,5 +15,4 @@ def root():
 if __name__ == '__main__':
    paises = LinkedList()
    f = Files()
-   f = 
    app.run(host="localhost", port=8080, debug=True)
